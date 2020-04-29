@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: reactor-core-3.1.7.RELEASE.jar spring-boot-starter-json-2.
+ 0.2.RELEASE.jar netty-handler-4.1.24.Final.jar jackson-datatype-jsr31
+ 0-2.9.5.jar spring-boot-starter-tomcat-2.0.2.RELEASE.jar jackson-anno
+ tations-2.9.0.jar spring-oxm-5.0.6.RELEASE.jar validation-api-2.0.1.F
+ inal.jar spring-data-redis-2.0.7.RELEASE.jar slf4j-api-1.7.25.jar let
+ tuce-core-5.0.4.RELEASE.jar hibernate-validator-6.0.9.Final.jar sprin
+ g-context-5.0.6.RELEASE.jar snakeyaml-1.19.jar logback-classic-1.2.3.
+ jar spring-boot-starter-web-2.0.2.RELEASE.jar spring-boot-starter-dat
+ a-redis-2.0.5.RELEASE.jar classmate-1.3.4.jar logback-core-1.2.3.jar 
+ spring-tx-5.0.6.RELEASE.jar javax.annotation-api-1.3.2.jar spring-boo
+ t-2.0.2.RELEASE.jar jackson-databind-2.9.5.jar jstl.jar standard.jar 
+ netty-codec-4.1.24.Final.jar spring-jcl-5.0.6.RELEASE.jar netty-buffe
+ r-4.1.24.Final.jar log4j-api-2.10.0.jar netty-common-4.1.24.Final.jar
+  spring-data-keyvalue-2.0.7.RELEASE.jar commons-pool2-2.5.0.jar sprin
+ g-web-5.0.6.RELEASE.jar tomcat-embed-el-8.5.31.jar spring-expression-
+ 5.0.6.RELEASE.jar log4j-to-slf4j-2.10.0.jar jul-to-slf4j-1.7.25.jar s
+ pring-aop-5.0.6.RELEASE.jar jackson-datatype-jdk8-2.9.5.jar ecj-3.12.
+ 3.jar spring-core-5.0.6.RELEASE.jar spring-beans-5.0.6.RELEASE.jar to
+ mcat-embed-core-8.5.31.jar reactive-streams-1.0.2.jar netty-transport
+ -4.1.24.Final.jar tomcat-embed-websocket-8.5.31.jar jedis-2.9.0.jar t
+ omcat-embed-jasper-8.5.31.jar jackson-module-parameter-names-2.9.5.ja
+ r spring-context-support-5.0.6.RELEASE.jar netty-resolver-4.1.24.Fina
+ l.jar spring-boot-autoconfigure-2.0.2.RELEASE.jar spring-webmvc-5.0.6
+ .RELEASE.jar spring-boot-starter-logging-2.0.2.RELEASE.jar tomcat-ann
+ otations-api-8.5.31.jar jboss-logging-3.3.2.Final.jar jackson-core-2.
+ 9.5.jar spring-boot-starter-2.0.2.RELEASE.jar spring-data-commons-2.0
+ .7.RELEASE.jar
+Main-Class: com.test.MySpringbootRedis.Main
+
